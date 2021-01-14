@@ -1,6 +1,8 @@
 ## Project Dog Breed classifier DeepLearning-ND-Udacity
 This the second project in the Deep Learning Nanodegree programm at Udacity.
-The aim is to 
+The aim is to create a set of algorithms, including a neural network for the purpose of image classification. The main tasks are:
+1) Ability to distinguish between a human and a dog 
+2) Correct classification of the dog breed, if a dog has been detected on the picture
 
 # Installation
 Download the GitHub repository as follows:
